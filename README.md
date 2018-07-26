@@ -98,8 +98,12 @@ http://www.pavlin.si/aprs/ww.php?wx=NOVO-MES&bordercolort=abcdef
 ## Primeri
 Lahko se tudi kombinira parametre, več parametrov je ločenih z znakom &
 Primeri:
+
 http://www.pavlin.si/aprs/ww.php?wx=NOVO-MES&txt&xml
+
 http://www.pavlin.si/aprs/ww.php?wx=NOVO-MES&txt&json&noimg
+
 http://www.pavlin.si/aprs/ww.php?wx=NOVO-MES&txt&json&xml
+
 http://www.pavlin.si/aprs/ww.php?wx=NOVO-MES&bgcolorh=123456&txtcolorh=abcdef&bgcolort=123456&txtcolort=abcdef&bordercolort=abcdef
 
