@@ -1,6 +1,18 @@
-# arso
-Obdelava XML s podatki o vremenu, ki jih posreduje ARSO / Weather XML parser, data provided by Slovenian agency
+# Arso weather data
+Obdelava XML s podatki o vremenu, ki jih posreduje ARSO 
+*Weather XML parser, data provided by Slovenian agency*
 
+    @credit: [Agencija Republike Slovenije za okolje](http://www.meteo.si/)
+    XML Doc: http://www.meteo.si/uploads/meteo/help/sl/xml_service.html
+    Data disclaimer: http://www.meteo.si/uploads/meteo/help/sl/disclaimer.html
+    Data copyright: http://www.meteo.si/uploads/meteo/help/sl/copyright.html
+    Data privacy policy: http://www.meteo.si/uploads/meteo/help/sl/notice.html
+
+# Kako uporabiti / how to use
+Skopiraj na svoj strežnik in uporabi parametre v URL naslovu
+*Copy php file to some web server supporting php and use with url parameters*
+	
+# PHP script parameters
 
 ## wx
 Glej: 
